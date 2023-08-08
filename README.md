@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm William</h1>
+<h3 align="center">A passionate software developer currently based in Vancouver.</h3>
 
-<!--
-**wilyyy/wilyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [wsph](https://github.com/wilyyy/wsph)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **data visualization (d3.js and chart)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [willydev.com](willydev.com)
+
+- 💬 Ask me about **design and psychology.**
+
+- 📫 How to reach me **williamlaurelalvarez@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/william-alvarez-76b806149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-alvarez-76b806149/" height="30" width="40" /></a>
+</p>
