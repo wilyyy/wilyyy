@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">A passionate software developer currently based in Vancouver.</h3>
 
-- 💼 Currently a web developer @petcurean
+- 💼 Currently a web developer at Petcurean
   
 - 🎓 Graduated from BCIT
 
-- 🌱 I’m currently learning **data visualization (d3.js and chart)**
+- 🌱 Learning **data visualization (d3.js and chart)**
 
 - 👨‍💻 All of my projects are available at [willydev.com](willydev.com)
 
