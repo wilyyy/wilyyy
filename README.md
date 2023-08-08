@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">A passionate software developer currently based in Vancouver.</h3>
 
-- 💼 Currently a web developer at Petcurean
+💼 Currently a web developer at Petcurean
   
-- 🎓 Graduated from BCIT
+🎓 Graduated from BCIT
 
-- 🌱 Learning **data visualization (d3.js and chart)**
+🌱 Learning **data visualization (d3.js and chart)**
 
-- 👨‍💻 All of my projects are available at [willydev.com](willydev.com)
+👨‍💻 All of my projects are available at [willydev.com](willydev.com)
 
-- 💬 Ask me about **design and psychology.**
+💬 Ask me about **design and psychology.**
 
-- 📫 How to reach me **williamlaurelalvarez@gmail.com**
+📫 How to reach me **williamlaurelalvarez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
