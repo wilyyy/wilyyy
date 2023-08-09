@@ -8,7 +8,7 @@
 
 🌱 Learning **data visualization (d3.js and chart)**
 
-👨‍💻 All of my projects are available at [willydev.com](willydev.com)
+👨‍💻 Check out **[my portfolio](https://www.willydev.com/)**
 
 💬 Ask me about **design and psychology**
 
