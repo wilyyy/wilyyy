@@ -1,6 +1,7 @@
 <h1 align="center">👋, I'm William</h1>
 <h3 align="center">A creative software developer currently based in Vancouver</h3>
 
+
 💼 Currently a **web developer at Petcurean**
   
 🎓 Graduated with distinction from **BCIT**
