@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A passionate software developer currently based in Vancouver.</h3>
+<h1 align="center">👋, I'm William</h1>
+<h3 align="center">A creative software developer currently based in Vancouver</h3>
 
-💼 Currently a web developer at Petcurean
+💼 Currently a **web developer at Petcurean**
   
-🎓 Graduated from BCIT
+🎓 Graduated with distinction from **BCIT**
 
 🌱 Learning **data visualization (d3.js and chart)**
 
