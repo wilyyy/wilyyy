@@ -10,7 +10,7 @@
 
 👨‍💻 All of my projects are available at [willydev.com](willydev.com)
 
-💬 Ask me about **design and psychology.**
+💬 Ask me about **design and psychology**
 
 📫 How to reach me **williamlaurelalvarez@gmail.com**
 
