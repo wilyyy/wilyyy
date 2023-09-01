@@ -8,7 +8,7 @@
 
 👨‍💻 Check out **[my portfolio](https://www.willydev.com/)**
 
-💬 Talk to me about **design and psychology**
+💬 Let's chat about **design, psychology and sports**
 
 📫 How to reach me **williamlaurelalvarez@gmail.com**
 
