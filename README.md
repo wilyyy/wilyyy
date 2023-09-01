@@ -6,11 +6,9 @@
   
 🎓 Graduated with distinction from **BCIT**
 
-🌱 Learning **data visualization (d3.js and chart)**
-
 👨‍💻 Check out **[my portfolio](https://www.willydev.com/)**
 
-💬 Ask me about **design and psychology**
+💬 Talk to me about **design and psychology**
 
 📫 How to reach me **williamlaurelalvarez@gmail.com**
 
